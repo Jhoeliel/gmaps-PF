@@ -8,7 +8,7 @@
 
 Consultores:</p>
 Ing. Ornaldo Hernández Ramos (Data Engineering)</p> 
-Ing. Jhoeliel David Palma Salazar (Data Cloud Engineering)</p>
+Ing. Jhoeliel David Palma Salazar (Data/Cloud Engineering)</p>
 Ing. Aaron Bernardo Martínez Vera (Data Analytics)</p>
 Ing. Janice Rocío Rico Sánchez (Data Analytics)</p>
 Ing. Cristian Ignacio Papini (Machine Learning Engineering)</p>
